@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 Hello!  
 My name is Tomasz Łabędzki & I'm data analyst.  
