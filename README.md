@@ -1,6 +1,3 @@
 ### Hello! 👋
 
-My name is Tomasz Łabędzki & I'm Data Analyst with over 12 years of work experience in e-commerce companies.
-Here you can find my code examples in Python & SQL.
-
-I'll prepare portfolio here soon.
+My name is Tomasz Łabędzki & I'm Data Analyst with over 8 years of work with data and over 10 years experience in e-commerce industry.
