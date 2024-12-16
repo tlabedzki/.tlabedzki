@@ -10,25 +10,25 @@ I specialize in data analysis (Python, SQL, Power BI), creating data processing 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <tr>
-    <td style="border: none;"><img src="./img/python.png" width="50"></td>
-    <td style="border: none;"><img src="./img/pandas.png" width="50"></td>
-    <td style="border: none;"><img src="./img/matplotlib.png" width="50"></td>
-    <td style="border: none;"><img src="./img/numpy.png" width="50"></td>
-    <td style="border: none;"><img src="./img/scikit-learn.png" width="50"></td>
-    <td style="border: none;"><img src="./img/streamlit.png" width="50"></td>
-    <td style="border: none;"><img src="./img/postgresql.png" width="50"></td>
-    <td style="border: none;"><img src="./img/anaconda.png" width="50"></td>
-    <td style="border: none;"><img src="./img/pycharm.png" width="50"></td>
-    <td style="border: none;"><img src="./img/jupyter.png" width="50"></td>
-    <td style="border: none;"><img src="./img/jira.png" width="50"></td>
-    <td style="border: none;"><img src="./img/confluence.png" width="50"></td>
+    <td style="border: none;"><img src="./img/python.png" width="70"></td>
+    <td style="border: none;"><img src="./img/pandas.png" width="70"></td>
+    <td style="border: none;"><img src="./img/matplotlib.png" width="70"></td>
+    <td style="border: none;"><img src="./img/numpy.png" width="70"></td>
+    <td style="border: none;"><img src="./img/scikit-learn.png" width="70"></td>
+    <td style="border: none;"><img src="./img/streamlit.png" width="70"></td>
+    <td style="border: none;"><img src="./img/postgresql.png" width="70"></td>
+    <td style="border: none;"><img src="./img/anaconda.png" width="70"></td>
+    <td style="border: none;"><img src="./img/pycharm.png" width="70"></td>
+    <td style="border: none;"><img src="./img/jupyter.png" width="70"></td>
+    <td style="border: none;"><img src="./img/jira.png" width="70"></td>
+    <td style="border: none;"><img src="./img/confluence.png" width="70"></td>
   </tr>
 </table>
 
 #### What am I developing in?
-I'm currently intensively expanding my knowledge in the field of Data Science, focusing on Machine Learning and the application of artificial intelligence models in business. I'm pursuing postgraduate studies in `Data Science - advanced data analysis`, which primarily emphasize machine learning using Python, mathematics, and statistics.
+I'm currently intensively expanding my knowledge in the field of Data Science, focusing on Machine Learning and the application of artificial intelligence models in business. I'm pursuing postgraduate studies in `Data Science - advanced data analysis` at the Wroclaw University of Economics, which primarily emphasize machine learning using Python, mathematics, and statistics.
 
-In 2025, I will gradually develop my Data Science portfolio here.
+In 2025, I will gradually develop my Data Science portfolio here so stay tuned! 😊
 
 #### What am I passionate about?
 For many years, I have been passionate about data analysis, and it is undoubtedly one of my greatest interests. In my free time, I create minimalist landscape photography during trips to some of the most beautiful places on our planet.
