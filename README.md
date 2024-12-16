@@ -7,6 +7,8 @@ My name is Tomasz Łabędzki & I'm an experienced data analyst with extensive te
 I specialize in data analysis (Python, SQL, Power BI), creating data processing pipelines, and developing data-driven applications (Python). My projects include the development of advanced analytical tools that support strategic business decision-making and contribute to revenue growth and operational efficiency.
 
 ![Alt Text](./img/Python.png)
+![Example Image](./img/Python.png)
+![Example Image]([https://github.com/uzytkownik/projekt/blob/nazwa-galezi/img/example.png](https://github.com/tlabedzki/.tlabedzki/blob/main/img/python.png))
 
 #### What am I developing in?
 I'm currently intensively expanding my knowledge in the field of Data Science, focusing on Machine Learning and the application of artificial intelligence models in business. I'm pursuing postgraduate studies in `Data Science - advanced data analysis`, which primarily emphasize machine learning using Python, mathematics, and statistics.
