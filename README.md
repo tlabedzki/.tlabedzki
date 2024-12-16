@@ -10,18 +10,18 @@ I specialize in data analysis (Python, SQL, Power BI), creating data processing 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <tr>
-    <td style="border: none;"><img src="./img/python.png" width="30"></td>
-    <td style="border: none;"><img src="./img/pandas.png" width="30"></td>
-    <td style="border: none;"><img src="./img/matplotlib.png" width="30"></td>
-    <td style="border: none;"><img src="./img/numpy.png" width="30"></td>
-    <td style="border: none;"><img src="./img/scikit-learn.png" width="30"></td>
-    <td style="border: none;"><img src="./img/streamlit.png" width="30"></td>
-    <td style="border: none;"><img src="./img/postgresql.png" width="30"></td>
-    <td style="border: none;"><img src="./img/anaconda.png" width="30"></td>
-    <td style="border: none;"><img src="./img/pycharm.png" width="30"></td>
-    <td style="border: none;"><img src="./img/jupyter.png" width="30"></td>
-    <td style="border: none;"><img src="./img/jira.png" width="30"></td>
-    <td style="border: none;"><img src="./img/confluence.png" width="30"></td>
+    <td style="border: none;"><img src="./img/python.png" width="50"></td>
+    <td style="border: none;"><img src="./img/pandas.png" width="50"></td>
+    <td style="border: none;"><img src="./img/matplotlib.png" width="50"></td>
+    <td style="border: none;"><img src="./img/numpy.png" width="50"></td>
+    <td style="border: none;"><img src="./img/scikit-learn.png" width="50"></td>
+    <td style="border: none;"><img src="./img/streamlit.png" width="50"></td>
+    <td style="border: none;"><img src="./img/postgresql.png" width="50"></td>
+    <td style="border: none;"><img src="./img/anaconda.png" width="50"></td>
+    <td style="border: none;"><img src="./img/pycharm.png" width="50"></td>
+    <td style="border: none;"><img src="./img/jupyter.png" width="50"></td>
+    <td style="border: none;"><img src="./img/jira.png" width="50"></td>
+    <td style="border: none;"><img src="./img/confluence.png" width="50"></td>
   </tr>
 </table>
 
