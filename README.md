@@ -17,7 +17,7 @@ I specialize in data analysis (Python, SQL, Power BI), creating data processing 
     <td style="border: none;"><img src="./img/numpy.png" alt="Numpy" width="30"></td>
     <td style="border: none;"><img src="./img/postgresql.png" alt="PostgreSQL" width="30"></td>
     <td style="border: none;"><img src="./img/pycharm.png" alt="PyCharm" width="30"></td>
-    <td style="border: none;"><img src="./img/Jupyter.png" alt="Jupyter Notebook" width="30"></td>
+    <td style="border: none;"><img src="./img/jupyter.png" alt="Jupyter Notebook" width="30"></td>
   </tr>
 </table>
 
