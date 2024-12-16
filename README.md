@@ -6,7 +6,7 @@ My name is Tomasz Łabędzki & I'm an experienced data analyst with extensive te
 #### What I do?
 I specialize in data analysis (Python, SQL, Power BI), creating data processing pipelines, and developing data-driven applications (Python). My projects include the development of advanced analytical tools that support strategic business decision-making and contribute to revenue growth and operational efficiency.
 
-#### My technology stack
+#### My stack
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <tr>
