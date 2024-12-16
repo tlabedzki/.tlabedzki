@@ -8,7 +8,7 @@ I specialize in data analysis (Python, SQL, Power BI), creating data processing 
 
 ![Alt Text](./img/Python.png)
 ![Example Image](./img/Python.png)
-![Example Image]([https://github.com/uzytkownik/projekt/blob/nazwa-galezi/img/example.png](https://github.com/tlabedzki/.tlabedzki/blob/main/img/python.png))
+![Example Image]([https://github.com/uzytkownik/projekt/blob/nazwa-galezi/img/example.png](https://github.com/tlabedzki/.tlabedzki/blob/main/img/Python.png))
 
 #### What am I developing in?
 I'm currently intensively expanding my knowledge in the field of Data Science, focusing on Machine Learning and the application of artificial intelligence models in business. I'm pursuing postgraduate studies in `Data Science - advanced data analysis`, which primarily emphasize machine learning using Python, mathematics, and statistics.
