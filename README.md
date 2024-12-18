@@ -12,8 +12,8 @@ I specialize in data analysis (Python, SQL, Power BI), creating data processing 
   <tr>
     <td style="border: none;"><img src="./img/python.png" width="60"></td>
     <td style="border: none;"><img src="./img/pandas.png" width="60"></td>
-    <td style="border: none;"><img src="./img/matplotlib.png" width="60"></td>
     <td style="border: none;"><img src="./img/numpy.png" width="60"></td>
+    <td style="border: none;"><img src="./img/matplotlib.png" width="60"></td>
     <td style="border: none;"><img src="./img/scikit-learn.png" width="60"></td>
     <td style="border: none;"><img src="./img/streamlit.png" width="60"></td>
     <td style="border: none;"><img src="./img/postgresql.png" width="60"></td>
